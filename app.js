@@ -1,4 +1,3 @@
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const request = require('request');
@@ -67,6 +66,3 @@ app.listen(process.env.PORT||3000, () => {
     console.log("server start running on port 3000");
 })
 
-// 7cd2c2f67990cbd120345f62ae53eac6-us6 Api keys
-
-// listid 06f81e48cc
